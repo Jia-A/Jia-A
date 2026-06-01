@@ -17,7 +17,7 @@ scalable B2C platforms for Australian companies.
 React · Next.js · TypeScript · TailwindCSS · PostgreSQL · Prisma
 
 ## Looking for
-Frontend / Full-stack roles in Japan or remote. Available immediately.
+Frontend Engineer open to full-time roles worldwide. Available immediately.
 
 📬 agrawaljia2011@gmail.com
 🔗 [LinkedIn](https://linkedin.com/in/jiyaagrawal) · 
